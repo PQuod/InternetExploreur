@@ -23,8 +23,8 @@ name: Internet Exploreur
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
  Exploreur de textes
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://internetexploreur.com" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/InternetExploreur" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 theme: minima
