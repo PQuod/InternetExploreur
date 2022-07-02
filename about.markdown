@@ -6,7 +6,7 @@ typo: oui
 permalink: /about/
 ---
 
-*INTERNET EXPLOREUR a été en ligne et actif à l'adresse Internetexploreur.com de 2020 à 2022. Maintenant fermé, ceci est une archive consultable.*
+*INTERNET EXPLOREUR a été en ligne et actif à l'adresse Internetexploreur.com de 2020 à 2022. Maintenant fermé, ceci est une archive consultable de sa dernière version, mise à jour pour la dernière fois le 14 mars 2022.*
 
 INTERNET EXPLOREUR est un site de littérature qui accueille des textes inédits. Il n'y a pas de comité éditorial, mais il n'est possible d'y publier que si vous y avez été invité.
 
