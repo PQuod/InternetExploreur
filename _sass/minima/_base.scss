@@ -233,6 +233,9 @@ font-family:sans-serif;
 
 @media all and (max-device-width: 700px)
 {
+  :root{
+    --font-size:1em;
+  }
 
 h1{
    line-height:calc(var(--line-height)*2); 
@@ -296,3 +299,6 @@ hr{
 hr:after{
 content:'\2738'
 }
+
+
+  
